@@ -1,0 +1,15 @@
+
+.DS_Store
+*.pyc
+checkpoints/yolov3_custom_val_loss_   6.47.data-00000-of-00001
+checkpoints/yolov3_custom_val_loss_   6.47.index
+checkpoints/yolov3_custom_val_loss_   7.33.data-00000-of-00001
+checkpoints/yolov3_custom_val_loss_   7.33.index
+checkpoints/yolov3_custom_val_loss_   8.58.data-00000-of-00001
+checkpoints/yolov3_custom_val_loss_   8.58.index
+*.jpg
+!docu/*.jpg
+*.v2
+checkpoints/yolov3_custom_val_loss_   5.54.index
+checkpoints/yolov3_custom_val_loss_   5.54.data-00000-of-00001
+*.weights
