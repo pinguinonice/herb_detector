@@ -13,3 +13,6 @@ checkpoints/yolov3_custom_val_loss_   8.58.index
 checkpoints/yolov3_custom_val_loss_   5.54.index
 checkpoints/yolov3_custom_val_loss_   5.54.data-00000-of-00001
 *.weights
+*.data-00000-of-00001
+*.index
+*.json

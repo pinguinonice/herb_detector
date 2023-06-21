@@ -29,23 +29,39 @@ To run inference on a folder of .jpg images run the following file:
 You might need to adjust the weight the paths in the config file.
 
 ## Results
-Some results after only 3 epochs:
+Some test set results after 5 epochs with 96.035% mAP:
 
-<table style="width:90%">
-  <tr>
-    <td><img src='docu/20210907_153931_x264_mp4-184_jpg.rf.d84795ffcfda403b97a022567dc0cde6.jpg' alt='Image 1' /></td>
-    <td><img src='docu/20210907_153931_x264_mp4-216_jpg.rf.ee70431461177dde38b01a476581acc7.jpg' alt='Image 2' /></td>
-  </tr>
-  <tr>
-    <td><img src='docu/20210907_153931_x264_mp4-412_jpg.rf.89b20d28da734856679cc8276d45d779.jpg' alt='Image 3' /></td>
-    <td><img src='docu/20210907_153931_x264_mp4-579_jpg.rf.fc860e18b9860897eb95cba11c6850d3.jpg' alt='Image 4' /></td>
-  </tr>
-  <tr>
-    <td><img src='docu/20210907_153931_x264_mp4-633_jpg.rf.fd1efb3a32553d54fb3cc88ad8804013.jpg' alt='Image 5' /></td>
-    <td><img src='docu/20210907_153931_x264_mp4-915_jpg.rf.f20b07a8d61d13661d8a97a9a8ae15cf.jpg' alt='Image 6' /></td>
-  </tr>
-  <tr>
-    <td><img src='docu/20210907_153931_x264_mp4-1140_jpg.rf.ff67b49559d09b679e891ee6cc4c8aed.jpg' alt='Image 7' /></td>
-    <td><img src='docu/20210907_153931_x264_mp4-1723_jpg.rf.145e6211848adbf19e92919618b80954.jpg' alt='Image 8' /></td>
-  </tr>
+<table>
+<tr>
+<td>
+<img src="docu/20210907_153931_x264_mp4-81_jpg.rf.630b1b9f3450fe42f4906c765961011a.jpg" alt="Image 1" style="width: 90%;">
+</td>
+<td>
+<img src="docu/20210907_153931_x264_mp4-213_jpg.rf.e63a8106d57153edb7a8075fd9887580.jpg" alt="Image 2" style="width: 90%;">
+</td>
+</tr>
+<tr>
+<td>
+<img src="docu/20210907_153931_x264_mp4-255_jpg.rf.130ba437c7d6dc4376bcceca30b10293.jpg" alt="Image 3" style="width: 90%;">
+</td>
+<td>
+<img src="docu/20210907_153931_x264_mp4-766_jpg.rf.5b1ed31e89d55788ec4354f18ca0410b.jpg" alt="Image 4" style="width: 90%;">
+</td>
+</tr>
+<tr>
+<td>
+<img src="docu/20210907_153931_x264_mp4-847_jpg.rf.93123dbbdd3e9f74bf6c002d6a2d347f.jpg" alt="Image 5" style="width: 90%;">
+</td>
+<td>
+<img src="docu/20210907_153931_x264_mp4-1581_jpg.rf.f4e344bbaeff32bfcf3de09d55058922.jpg" alt="Image 6" style="width: 90%;">
+</td>
+</tr>
+<tr>
+<td>
+<img src="docu/20210907_153931_x264_mp4-1607_jpg.rf.dfcd4474e14f7917a6a9fb103298d24d.jpg" alt="Image 7" style="width: 90%;">
+</td>
+<td>
+<img src="docu/20210907_153931_x264_mp4-1705_jpg.rf.013e4d21db5b043c1fa1aa9b54e59943.jpg" alt="Image 8" style="width: 90%;">
+</td>
+</tr>
 </table>
